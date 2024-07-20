@@ -6,4 +6,11 @@ labels: ''
 assignees: ''
 ---
 
+# Book information
+| | |
+| --- | --- |
+| Title | |
+| Subtitle | |
+| Author | |
+
 # Content Notes
