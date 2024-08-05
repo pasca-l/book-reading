@@ -1,11 +1,12 @@
-name: lock issue conversation on open
+name: Lock issue conversation on open
+
 on:
   issues:
     types:
       - opened
 
 jobs:
-  lock_issue:
+  lock-issue:
     runs-on: ubuntu-latest
 
     steps:
