@@ -2,6 +2,7 @@
 Repository for keeping record of books that have been read.
 
 ## On bookshelf
+- [オブジェクト指向でなぜつくるのか](https://github.com/pasca-l/book-reading/issues/6)
 - [ネットワーク技術 & 設計入門](https://github.com/pasca-l/book-reading/issues/4)
 - [The Art of Readable Code](https://github.com/pasca-l/book-reading/issues/1)
 
