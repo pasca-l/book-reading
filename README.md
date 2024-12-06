@@ -2,6 +2,7 @@
 Repository for keeping record of books that have been read.
 
 ## On bookshelf
+- [達人が教える Web パフォーマンスチューニング](https://github.com/pasca-l/book-reading/issues/8)
 - [［作って学ぶ］ブラウザのしくみ](https://github.com/pasca-l/book-reading/issues/7)
 - [ネットワーク技術 & 設計入門](https://github.com/pasca-l/book-reading/issues/4)
 - [The Art of Readable Code](https://github.com/pasca-l/book-reading/issues/1)
