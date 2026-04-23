@@ -7,6 +7,7 @@ Repository for keeping record of books that have been read.
 - [The Art of Readable Code](https://github.com/pasca-l/book-reading/issues/1)
 
 ## Done reading
+- [コンテナセキュリティ](https://github.com/pasca-l/book-reading/issues/10)
 - [［作って学ぶ］ブラウザのしくみ](https://github.com/pasca-l/book-reading/issues/7)
 - [達人が教える Web パフォーマンスチューニング](https://github.com/pasca-l/book-reading/issues/8)
 - [オブジェクト指向でなぜつくるのか](https://github.com/pasca-l/book-reading/issues/6)
