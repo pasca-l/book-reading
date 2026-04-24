@@ -13,9 +13,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/create-github-app-token@v2
+        id: app-token
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+
       - name: Fetch issues and summarize on README
         uses: actions/github-script@v7
         with:
+          github-token: ${{ steps.app-token.outputs.token }}
           script: |
             const fs = require('fs');
 
