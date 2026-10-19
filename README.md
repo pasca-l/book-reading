@@ -2,6 +2,7 @@
 Repository for keeping record of books that have been read.
 
 ## On bookshelf
+- [達人に学ぶ DB 設計徹底指南書](https://github.com/pasca-l/book-reading/issues/12)
 - [達人に学ぶ SQL 徹底指南書](https://github.com/pasca-l/book-reading/issues/11)
 - [SQL Antipatterns](https://github.com/pasca-l/book-reading/issues/9)
 - [ネットワーク技術 & 設計入門](https://github.com/pasca-l/book-reading/issues/4)
